@@ -2,10 +2,10 @@ import React from 'react'
 
 import './styles.css'
 
-const Component = () => {
+const Footer = () => {
   return (
     <p>Footer</p>
   )
 }
 
-export default Component
+export default Footer
