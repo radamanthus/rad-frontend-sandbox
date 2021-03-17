@@ -4,7 +4,7 @@ import './styles.css'
 
 const Footer = () => {
   return (
-    <p>Footer</p>
+    <p>Footer was modified!</p>
   )
 }
 
