@@ -1,0 +1,26 @@
+{
+	"components": [
+		{
+			"name": "Header",
+			"filePath": "sections/Header/index.js",
+			"props": [
+				{
+					"name": "text",
+					"displayName": "text",
+					"type": "string"
+				}
+			]
+		},
+		{
+			"name": "Footer",
+			"filePath": "sections/Footer/index.js",
+			"props": [
+				{
+					"name": "year",
+					"displayName": "Year",
+					"type": "number"
+				}
+			]
+		}
+	]
+}
