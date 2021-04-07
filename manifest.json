@@ -7,7 +7,7 @@
 				{
 					"name": "name",
 					"displayName": "Name",
-					"type": "string"
+					"type": "html"
 				}
 			]
 		},
