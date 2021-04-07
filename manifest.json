@@ -7,7 +7,7 @@
 				{
 					"name": "title",
 					"displayName": "Title",
-					"type": "string"
+					"type": "html"
 				}
 			]
 		},
