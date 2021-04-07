@@ -7,7 +7,7 @@
 				{
 					"name": "title",
 					"displayName": "Title",
-					"type": "string"
+					"type": "html"
 				}
 			]
 		},
@@ -15,11 +15,6 @@
 			"name": "Footer",
 			"filePath": "sections/Footer/index.js",
 			"props": [
-				{
-					"name": "year",
-					"displayName": "Year",
-					"type": "number"
-				}
 			]
 		}
 	]
