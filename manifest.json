@@ -4,6 +4,11 @@
 			"name": "Header",
 			"filePath": "sections/Header/index.js",
 			"props": [
+				{
+					"name": "name",
+					"displayName": "Name",
+					"type": "string"
+				}
 			]
 		},
 		{
