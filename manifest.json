@@ -5,8 +5,8 @@
 			"filePath": "sections/Header/index.js",
 			"props": [
 				{
-					"name": "text",
-					"displayName": "text",
+					"name": "name",
+					"displayName": "name",
 					"type": "string"
 				}
 			]
