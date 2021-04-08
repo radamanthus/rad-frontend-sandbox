@@ -4,12 +4,22 @@
 			"name": "Header",
 			"filePath": "sections/Header/index.js",
 			"props": [
+				{
+					"name": "title",
+					"displayName": "Title",
+					"type": "string"
+				}
 			]
 		},
 		{
 			"name": "Footer",
 			"filePath": "sections/Footer/index.js",
 			"props": [
+				{
+					"name": "year",
+					"displayName": "Year",
+					"type": "number"
+				}
 			]
 		}
 	]
