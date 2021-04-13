@@ -2,7 +2,7 @@ import React from 'react'
 
 import './styles.css'
 
-// test
+// I also changed Footer
 const Footer = () => {
   return (
     <p>Footer was modified!</p>
