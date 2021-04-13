@@ -8,6 +8,11 @@
 					"name": "title",
 					"displayName": "Title",
 					"type": "string"
+				},
+				{
+					"name": "subtitle",
+					"displayName": "Subtitle",
+					"type": "string"
 				}
 			]
 		},
