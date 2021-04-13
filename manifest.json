@@ -7,6 +7,11 @@
 				{
 					"name": "title",
 					"displayName": "Title",
+					"type": "html"
+				},
+				{
+					"name": "subtitle",
+					"displayName": "Subtitle",
 					"type": "string"
 				}
 			]
@@ -18,7 +23,7 @@
 				{
 					"name": "year",
 					"displayName": "Year",
-					"type": "number"
+					"type": "string"
 				}
 			]
 		}
