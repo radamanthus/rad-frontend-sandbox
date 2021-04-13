@@ -2,7 +2,7 @@ import React from 'react'
 
 import './styles.css'
 
-// I change Header
+// commit 2: Change Header
 const Header = ({title}) => {
   return (
     <h1 class="header">{title}</h1>
