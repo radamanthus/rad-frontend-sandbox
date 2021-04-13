@@ -2,7 +2,7 @@ import React from 'react'
 
 import './styles.css'
 
-// I also changed Footer
+// Commit 1: Change Footer
 const Footer = () => {
   return (
     <p>Footer was modified!</p>
