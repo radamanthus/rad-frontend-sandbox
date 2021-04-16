@@ -7,7 +7,7 @@
 				{
 					"name": "fontSize",
 					"displayName": "Font Size",
-					"type": "string"
+					"type": "number"
 				}
 			]
 		},
