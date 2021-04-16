@@ -4,11 +4,6 @@
 			"name": "Header",
 			"filePath": "sections/Header/index.js",
 			"props": [
-				{
-					"name": "fontSize",
-					"displayName": "Font Size",
-					"type": "number"
-				}
 			]
 		},
 		{
