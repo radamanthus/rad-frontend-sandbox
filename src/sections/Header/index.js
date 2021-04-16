@@ -2,10 +2,12 @@ import React from 'react'
 
 import './styles.css'
 
-// Commit 1: Change Header
-const Header = ({title}) => {
+/*
+ * @prop {string} fontSize - Font Size
+ */
+const Header = (fontSize) => {
   return (
-    <h1 class="header">{title}</h1>
+    <h1 class="header" style="font-size:{fontSize}px">Hello, World!</h1>
   )
 }
 
