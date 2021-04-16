@@ -1,5 +1,5 @@
 {
-	"Xexports": [
+	"exports": [
 		{
 			"name": "Header",
 			"filePath": "sections/Header/index.js",
