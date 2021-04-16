@@ -2,8 +2,10 @@ import React from 'react'
 
 import './styles.css'
 
-// Commit 2: Change Footer
-const Footer = () => {
+/*
+ * @prop {string} fontSize - Font Size
+ */
+const Footer = (fontSize) => {
   return (
     <p>Footer was modified!</p>
   )
