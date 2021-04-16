@@ -7,7 +7,7 @@ import './styles.css'
  */
 const Header = (fontSize) => {
   return (
-    <h1 class="header" style={{font-size:{fontSize}px}}>Hello, World!</h1>
+    <h1 class="header" style={{fontSize:{fontSize}}}>Hello, World!</h1>
   )
 }
 
