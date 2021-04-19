@@ -7,7 +7,7 @@ import './styles.css'
  */
 const Footer = (fontSize) => {
   return (
-    <p>Footer was modified!</p>
+    <p>Goodbye, World!</p>
   )
 }
 
