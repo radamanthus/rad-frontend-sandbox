@@ -11,7 +11,9 @@
 					"selection": {
 						"products": {
 							"name": true,
-							"minPrice": true
+							"slug": true,
+							"maxPrice": true,
+							"maxOrder": true,
 						}
 					}
 				}
