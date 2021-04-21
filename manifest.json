@@ -13,7 +13,7 @@
 							"name": true,
 							"slug": true,
 							"maxPrice": true,
-							"maxOrder": true,
+							"maxOrder": true
 						}
 					}
 				}
