@@ -10,9 +10,7 @@
 					"type": "reference",
 					"selection": {
 						"products": {
-							"externalId": true,
 							"name": true,
-							"slug": true,
 							"minPrice": true
 						}
 					}
