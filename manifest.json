@@ -12,9 +12,7 @@
 						"products": {
 							"name": true,
 							"slug": true,
-							"createdAt": true,
-							"maxPrice": true,
-							"maxOrder": true
+							"createdAt": true
 						}
 					}
 				}
