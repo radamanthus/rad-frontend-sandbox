@@ -4,18 +4,6 @@
 			"name": "Header",
 			"filePath": "sections/Header/index.js",
 			"props": [
-				{
-					"name": "data",
-					"displayName": "data",
-					"type": "reference",
-					"selection": {
-						"products": {
-							"name": true,
-							"slug": true,
-							"createdAt": true
-						}
-					}
-				}
 			]
 		},
 		{
