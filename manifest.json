@@ -9,7 +9,8 @@
 					"type": "number"
 				},
 				{
-					"name": "fontColor",
+					"name": "fontColour",
+					"old_name": "fontColor",
 					"type": "string"
 				}
 			]
