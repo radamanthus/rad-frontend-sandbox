@@ -4,6 +4,14 @@
 			"name": "Header",
 			"filePath": "sections/Header/index.js",
 			"props": [
+				{
+					"name": "fontSize",
+					"type": "number"
+				},
+				{
+					"name": "fontColor",
+					"type": "string"
+				}
 			]
 		}
 	]
