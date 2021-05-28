@@ -5,10 +5,10 @@ import './styles.css'
 /*
  * @prop {string} fontSize - Font Size
  */
-const Header = (fontSize) => {
+const RenamedHeader = (fontSize) => {
   return (
     <h1 class="header" style={{fontSize:{fontSize}}}>Hello, World!</h1>
   )
 }
 
-export default Header
+export default RenamedHeader
