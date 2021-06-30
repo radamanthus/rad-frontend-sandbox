@@ -5,16 +5,8 @@
 			"filePath": "sections/Header/index.js",
 			"props": [
 				{
-					"name": "fontName",
-					"type": "string"
-				},
-				{
 					"name": "fontColour",
 					"type": "string"
-				},
-				{
-					"name": "fontSize",
-					"type": "number"
 				}
 			]
 		}
