@@ -6,8 +6,11 @@
 			"props": [
 				{
 					"name": "fontColour",
-					"old_name": "fontColor",
 					"type": "string"
+				},
+				{
+					"name": "fontSize",
+					"type": "number"
 				}
 			]
 		}
