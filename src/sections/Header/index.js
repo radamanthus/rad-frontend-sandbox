@@ -2,7 +2,7 @@ import React from 'react'
 
 import './styles.css'
 
-/* QA: Edit component JS source AND CSS */
+/* QA: Edit component JS source */
 /*
  * @prop {string} fontSize - Font Size
  */
