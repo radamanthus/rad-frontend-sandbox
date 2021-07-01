@@ -7,11 +7,7 @@
 				{
 					"name": "fontName",
 					"type": "string"
-				},
-				{
-					"name": "fontColour",
-					"type": "string"				
-				}				
+				}
 			]
 		}
 	]
