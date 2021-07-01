@@ -11,6 +11,10 @@
 				{
 					"name": "fontColour",
 					"type": "string"
+				},
+				{
+					"name": "fontSize",
+					"type": "number"					
 				}
 				
 			]
