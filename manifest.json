@@ -2,12 +2,8 @@
 	"exports": [
 		{
 			"name": "Header",
-			"filePath": "sections/Header/index.js",
+			"filePath": "src/sections/Header/index.js",
 			"props": [
-				{
-					"name": "fontName",
-					"type": "string"
-				},
 				{
 					"name": "arrayVar",
 					"type": "string",
