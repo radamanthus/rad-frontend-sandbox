@@ -5,6 +5,11 @@
 			"filePath": "src/sections/Header/index.js",
 			"props": [
         {
+          "name": "arrayVar",
+          "type": "number",
+          "isMultiple": true
+        },
+        {
           "name": "refVar",
           "type": "reference",
           "selection": {
