@@ -8,7 +8,17 @@
 					"name": "arrayVar",
 					"type": "string",
           "isMultiple": true
-				}
+				},
+        {
+          "name": "refVar":,
+          "type": "reference",
+          "selection": {
+            "products": {
+              "name": true,
+              "slug": true
+            }
+          }
+        }
 			]
 		}
 	]
