@@ -1,1 +1,4 @@
-/* QA: Global CSS edit - css = module mode */
+/* QA: I am global.module.css
+  and css_type = 'reguler'
+  therefore I should not be synced
+*/
