@@ -4,11 +4,6 @@
 			"name": "Header",
 			"filePath": "src/sections/Header/index.js",
 			"props": [
-				{
-					"name": "arrayVar",
-					"type": "string",
-          "isMultiple": true
-				},
         {
           "name": "refVar":,
           "type": "reference",
