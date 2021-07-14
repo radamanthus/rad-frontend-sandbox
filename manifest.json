@@ -5,6 +5,11 @@
 			"filePath": "src/sections/Header/index.js",
 			"props": [
         {
+          "name": "arrayOfStrings",
+          "type": "string",
+          "isMultiple": true
+        },
+        {
           "name": "arrayVar",
           "type": "number",
           "isMultiple": true
