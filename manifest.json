@@ -20,7 +20,8 @@
           "selection": {
             "products": {
               "name": true,
-              "slug": true
+              "slug": true,
+              "iDoNotExist": true
             }
           }
         }
